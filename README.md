@@ -4,8 +4,8 @@ I'm a passionate programmer and gamer with a solid foundation in many different 
 
 ## 🌐 Technologies & Languages
 
-- **Python (Py):** Versatile language for various applications.
-- **C#** A good proficiency in the C# language.
+- **Python:** Versatile language for various applications.
+- **C#:** A good proficiency in the C# language.
 - **CSS, HTML, JavaScript (JS):** Proficient in web development technologies.
 - **C++:** Strong foundation in C++ programming.
 
